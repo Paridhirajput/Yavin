@@ -1,0 +1,456 @@
+.logo-size{
+    width: 126px;
+    height: 32px;
+}
+.nav-font-color{font-family: 'AR One Sans', sans-serif;
+    font-size: 15px;
+    background-color:rgb(255, 255, 255);
+    }
+
+.contect-btn{
+    background-color: white;
+    color: rgb(228, 61, 89);
+    border: 1px solid rgb(228, 61, 89);
+}
+.c-btn:hover{
+    background-color: rgb(228, 61, 89);
+    color: white;
+}
+.li:hover{
+    color:#323fa7;
+}
+.dropdwon:hover.dropdown-menu{
+    display: block;
+
+}
+
+
+.home-hw{position: relative;
+}
+
+.dco-img{position: absolute;
+    width: 520px;
+    top:230px;
+    left:-310px;
+}
+
+.dco-img2{position: absolute;
+    width:570px;
+    top:180px;
+left:1030px;
+}
+.header-img{
+    position: absolute;
+    top:230px;
+    left:730px;
+}
+
+.titel-div{
+    position: relative;
+    top:330px;
+    left:100px;
+}
+
+.titel-heading{
+color:#191E47;
+font-size:69px;
+font-family:inherit;
+
+}
+
+.details-btn{
+    background-color: #4555d2;
+    border: solid 1px;
+    color:white;
+}
+
+.detailsh-btn:hover{
+    color: #4555d2;
+    border: 2px solid  #4555d2;
+}
+
+.grid{
+    position: relative;
+    display:grid;
+    grid-template-columns: repeat(4,50px);
+    column-gap:230px;
+    top:550px;
+    left:220px;
+}
+.number{
+    font-size:109px;
+    color:#191e47;
+}
+.counter{
+    position: relative;
+    display:grid;
+    grid-template-columns: repeat(4,50px);
+    column-gap:250px;
+    top:500px;
+    left:220px;
+}
+.color{
+    color:#6d717a;
+    font-size:17px;
+    width:120px;
+}
+
+.baground{
+    top: 700px;
+    position:relative;
+    height:480px;
+    width: auto;
+    background-color: #f9fafe;
+}
+
+.h1{
+    position: absolute;
+    left:250px;
+    top:150px;
+    color:#191e47;
+  
+}
+.p{
+    position: absolute;
+    top:250px;
+    color: #6c717b;
+    font-family: "Open Sans", sans-serif;
+    left:250px;
+
+    
+}
+.pageimg1{
+   position: absolute;
+   top:1840px;
+   left:-220px;
+   width: 570px;
+
+}
+.pageimg2{
+    position: absolute;
+   top:1840px;
+   left:260px;
+}
+.titel-heading1{
+    position:absolute;
+    top:1900px;
+    left:780px;
+}
+.title1{
+    font-size:35px;
+    font-family: inherit;
+    color:#191e47;
+    font-weight: 700;
+}
+.ul{
+    position:absolute;
+    top: 2000px;
+    left:780px;
+    
+}
+.li1{
+    color:#6c717b;
+    font-family: "Open Sans", sans-serif;
+}
+.details-btn2{
+    background-color: #4555d2;
+    border: solid 1px;
+    color:white;
+    position: absolute;
+    top:2170px;
+     left:850px;
+}
+
+.detailsh-btn2:hover{
+    color: #4555d2;
+    border: 2px solid  #4555d2;
+}
+
+.baground2{
+    position:absolute;
+    background-color: #f9fafe;
+    height: 660px;
+    width: 100%;
+    top:2500px;
+}
+    .service{
+        position: absolute;
+        top:130px;
+        left: 10px;
+        width: 1300px;
+        height: 500px;
+    }
+    .cardall{
+        position: absolute;
+        left: 480px;
+        height: 200px;
+        width: 840px;
+    font-size: 10px;
+    justify-content: center;}
+    
+    .cardall2{
+        position: absolute;
+        height: 200px;
+        left: 570px;
+        width: 840px;
+        top: 230px;
+        font-size: 10px;
+    }
+    
+    .Serviceswe{
+        position:absolute;
+        color: #191E47;
+        top: 50px;
+        width: 200px;
+    }
+.images{
+    width:50px;
+    height:50px;
+}
+
+.heading{
+    top:3400px;
+    position: absolute;
+    left:180px;
+}
+.ha{
+    font-size:30px;
+}
+.pa{
+    color:#6d717a;
+    font-size:17px ;
+}
+.img1{
+    position: absolute;
+    left:950px;
+    top: 3250px;
+}
+.img2{
+  position:absolute;
+  left:950px;
+  top:1000px;
+}
+
+.baground3{
+    position: absolute;
+    background-color: #f9fafe;
+    top:3890px;
+    height:500px;
+    width:100%;
+}
+.hh{
+    position: absolute;
+    top:170px;
+    font-size:28px;
+    left:350px;
+    text-align: center;
+}
+.details-btn3{
+    background-color: #4555d2;
+    border: solid 1px;
+    color:white;
+    position: absolute;
+    top:300px;
+     left:550px;
+    }
+    .detailsh-btn3:hover{
+        color: #4555d2;
+        border: 2px solid  #4555d2;
+        position: absolute;
+    }
+    
+    .h{
+       position: absolute;
+       left: 600px;;
+       top:4500px;
+       text-align: center;
+    }
+    .image1{
+     position: absolute;
+     left:200px;
+     top:4600px;
+     display: grid;
+     grid-template-columns:1fr 1fr 1fr;
+    }
+    .image2{
+        position: absolute;
+     left:200px;
+     top:5000px;
+     display: grid;
+     grid-template-columns:1fr 1fr 1fr;
+    }
+
+    .baground4{
+        position: absolute;
+        background-color: #f9fafe;
+        top:5500px;
+        height:700px;
+        width:100%;
+    }
+    
+    .logo1{
+        position: absolute;
+        top:6370px;
+        left:-30px;
+        width:500px;
+        height:500px;
+    }
+    .deco1{
+        position: absolute;
+        top:6370px;
+        left:1200px;
+        width:500px;
+        height:500px;
+    }
+    .imga{
+        position: absolute;
+        top:6360px;
+        left:240px;
+    }
+    .form{
+        position: absolute;
+        left:860px;
+        top:6370px;
+    }
+    .in{
+        width: 500px;
+        border: 1px solid #cbcbd1;
+        background-color: #ffffff;
+    }
+    .msg{
+        height: 600px;
+    }
+    .details-btn4{
+        background-color: #4555d2;
+        border: solid 1px;
+        color:white;
+        position: absolute;
+        width: 500px;
+        
+        }
+        .detailsh-btn4:hover{
+            color: #4555d2;
+            border: 1px solid  #4555d2;
+           
+        }
+
+        .baground5{
+            position: absolute;
+            background-color: #f9fafe;
+            top:7100px;
+            height:400px;
+            width:100%;
+        }
+        .hd1{
+            color: #6c717b;
+            left:200px;
+            top:90px;
+            position: absolute;
+        }
+        .pg{
+            top:120px;
+            position: absolute;
+            left:200px;
+            text-align:start;
+            color: #6c717b;
+            opacity: 0.9;
+        }
+        .hd2{
+            color: #6c717b;
+            left:650px;
+            top:90px;
+            position: absolute;
+        }
+        .pg1{
+            top:120px;
+            position: absolute;
+            left:650px;
+            text-align:start;
+            color: #6c717b;
+            opacity: 0.9;
+        }
+        .pg2{
+            top:320px;
+            position: absolute;
+            left:650px;
+            text-align:start;
+            color: #6c717b;
+            opacity: 0.9;
+        }
+        .pg3{
+            top:360px;
+            position: absolute;
+            left:670px;
+            text-align:start;
+            color: #6c717b;
+            opacity: 0.9;
+        }
+        .logos{
+            position: relative;
+            display: grid;
+            grid-template-columns:repeat(4,20px);
+            gap: 40px;
+            top:90px;
+            left:1200px;
+        }
+        .ph{
+            position: absolute;
+            top:110px;
+            text-align:end;
+            color: #6c717b;
+            opacity: 0.9;
+        }
+        .ph1{
+            position: absolute;
+            top:140px;
+            left:90px ;            
+            color: #6c717b;
+            opacity: 0.9;
+        }
+        .l1{
+            width:40px;
+            height:40px;
+            border-radius:40px;
+        }
+        .iconbtn{
+           
+            border: solid 1px;
+            color:white;
+            position: absolute;
+        }
+        .icons:hover{
+            color: #090909;
+            border: 1px solid  #0a0a0a;  
+        }
+        /*slider part*/
+        .main{
+            position:relative;
+            height:500px;
+            background-color: white;
+        }
+        
+        .slidesec{
+            position:relative;
+            top:4400px;
+            height:400px;
+            width:100%;
+            justify-content: center;
+        }
+        .slide-img{
+            width: 100px;
+            border-radius: 50%;
+            margin-bottom: 70px;
+        }
+        
+        .slide-h{
+            color: #191E47;
+        }
+        .quote{
+            width:190px;
+            height:190px;
+            opacity: 0.4;
+            left:170px;
+            position:relative;
+            top:4500px;
+        }
+        
